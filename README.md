@@ -14,3 +14,6 @@ As stated above, the main purpose is to provide simple examples for Git
 ## Deployment
 
 This is a simple web project.
+
+###Copyright
+2016 Pif
