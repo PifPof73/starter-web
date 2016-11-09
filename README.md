@@ -1,6 +1,7 @@
 # Starter Web Project
 This is a simple Webpage.
-Adding a line for rebasing example.
+Adding a line for rebasing example, than
+more changes on feature branch.
 
 ## Introduction
 This repository is for showing how Git and GitHub work.
