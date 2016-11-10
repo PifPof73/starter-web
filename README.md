@@ -21,4 +21,4 @@ This is a simple web project.
 
 Please fork this repository and then issue Pull Requests for review.
 ###Copyright
-2016 Pif
+2016 Pif All rights reserved.
